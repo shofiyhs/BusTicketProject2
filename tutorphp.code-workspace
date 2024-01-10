@@ -1,0 +1,26 @@
+{
+	"folders": [
+		{
+			"path": "../../../xampp/htdocs/tutorphp"
+		},
+		{
+			"path": "../../../xampp/htdocs/tes"
+		},
+		{
+			"path": "../BNSP-main"
+		},
+		{
+			"path": "../sertikom-main"
+		},
+		{
+			"path": "../id_generator"
+		},
+		{
+			"path": "../Railway-Reservation-System-in-php-master"
+		},
+		{
+			"path": "."
+		}
+	],
+	"settings": {}
+}
