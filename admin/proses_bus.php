@@ -8,7 +8,7 @@ header("Content-Disposition: attachment; filename=Data_Bus.xls");
 		
 <table border="1" cellpadding="2">
 	<tr>
-		<th>No</th>
+		<th>Number</th>
 		<th>Bus Number</th>
 	</tr>
 	<?php
