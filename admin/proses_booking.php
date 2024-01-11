@@ -11,7 +11,7 @@ header("Content-Disposition: attachment; filename=data_booking.xls");
 		<th>No</th>
 		<th>PNR</th>
 		<th>Name</th>
-		<th>Contact</th>
+		<th>Phone</th>
 		<th>Bus</th>
 		<th>Route</th>
 		<th>Seat</th>
